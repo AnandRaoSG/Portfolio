@@ -1,0 +1,44 @@
+.certificate-card{
+    width: 25rem;
+    background: #130f2a;
+    border-radius: 0.65rem;
+    border: 1.5px solid #6751b9;
+    padding: 1.5rem;
+    margin: 1rem;
+    text-align: center;
+   }
+
+.certificate-card h6{
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: 0.7rem;
+}
+
+
+
+.certificate-content{
+    padding: 1rem;
+}
+
+.certificate-content h5,a{
+    font-size: 1rem;
+    color: #0066cc;
+    text-decoration: none;
+}
+
+@media(max-width: 768px){
+    .certificate-card{
+        margin: 1;
+    }
+
+    .certificate-card h6{
+        font-size: 1.95rem;
+    }
+
+    .certificate-card h6, h5{
+        font-size: 0.75rem;
+    }
+}
+
+
+
