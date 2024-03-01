@@ -17,10 +17,11 @@
 
 .project-content{
     padding: 1rem;
+   
 }
 
 .project-content h5,a{
-    font-size: 1rem;
+    font-size: 0.8rem;
     color: #0066cc;
     text-decoration: none;
 }
