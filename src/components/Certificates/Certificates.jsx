@@ -22,7 +22,7 @@ const Certificates = () => {
         breakpoint: 769,
         settings:{
           slideToShow: 2,
-          slideToScroll: 2,
+          slideToScroll: 1,
         }
       }
     ]

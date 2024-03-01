@@ -6,6 +6,7 @@
     padding: 1.5rem;
     margin: 1rem;
     text-align: center;
+    justify-content: center;
    }
 
 .certificate-card h6{
@@ -18,12 +19,14 @@
 
 .certificate-content{
     padding: 1rem;
+    text-align: center;
 }
 
 .certificate-content h5,a{
     font-size: 1rem;
     color: #0066cc;
     text-decoration: none;
+    text-align: center;
 }
 
 @media(max-width: 768px){

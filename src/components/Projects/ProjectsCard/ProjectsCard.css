@@ -6,6 +6,7 @@
     padding: 1.5rem;
     margin: 1rem;
     text-align: center;
+    justify-content: center;
 }
 
 .project-card h6{
