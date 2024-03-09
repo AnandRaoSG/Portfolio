@@ -60,12 +60,7 @@ export const PROJECTS = [
     link: "https://anandraosg.neocities.org/Project/ClothyFly/",
   },
 
-  {
-    title: "GreenBite",
-    link: "https://www.figma.com/proto/Fd6GqiJ4yyVX3MjIOn849h/GreenBite?type=design&node-id=60-991&t=z6eCuPpU25lwulVv-1&scaling=scale-down&page-id=58%3A50&starting-point-node-id=60%3A991&show-proto-sidebar=1&mode=design",
-  },
-
-  {
+    {
     title: "To-do-List",
     link: "https://anandraosg.github.io/To-do-List/",
   },
@@ -73,6 +68,11 @@ export const PROJECTS = [
   {
     title: "IMDB_Clone",
     link: "https://developerwebsitefor.netlify.app/",
+  },
+
+  {
+    title: "GreenBite",
+    link: "https://www.figma.com/proto/Fd6GqiJ4yyVX3MjIOn849h/GreenBite?type=design&node-id=60-991&t=z6eCuPpU25lwulVv-1&scaling=scale-down&page-id=58%3A50&starting-point-node-id=60%3A991&show-proto-sidebar=1&mode=design",
   },
 
   {
@@ -100,6 +100,11 @@ export const CERTIFICATES = [
   {
     title: "React.js",
     sources: "https://drive.google.com/file/d/1P-ENB9NAy0TkJd42PwJexg5wcYNHQHu8/view?usp=sharing",
+  },
+
+  {
+    title: "Java",
+    sources: "https://drive.google.com/file/d/1_s-AGDjoXEGMCJul3pxXSxoOUSxWFzFF/view?usp=sharing",
   },
 
   {

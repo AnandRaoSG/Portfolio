@@ -18,12 +18,12 @@
 
 
 .certificate-content{
-    padding: 0.8rem;
+    padding: 1rem;
     text-align: center;
 }
 
 .certificate-content h5,a{
-    font-size: 1rem;
+    font-size: 0.7rem;
     color: #0066cc;
     text-decoration: none;
     text-align: center;
